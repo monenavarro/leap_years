@@ -1,7 +1,30 @@
 {
   "RSpec": {
     "coverage": {
+      "/Users/JulianAcosta/Documents/repositories/leap_years/spec/leap_years_spec.rb": {
+        "lines": [
+          1,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null,
+          0,
+          0,
+          null,
+          null
+        ]
+      }
     },
-    "timestamp": 1657302514
+    "timestamp": 1657302752
   }
 }
