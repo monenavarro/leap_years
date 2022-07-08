@@ -5,26 +5,37 @@
         "lines": [
           1,
           null,
-          0,
-          0,
-          0,
+          1,
+          1,
+          1,
           null,
           null,
-          0,
-          0,
+          1,
+          1,
           null,
           null,
-          0,
-          0,
+          1,
+          1,
           null,
           null,
-          0,
-          0,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/JulianAcosta/Documents/repositories/leap_years/lib/leap_years.rb": {
+        "lines": [
+          1,
+          4,
+          2,
+          null,
+          2,
           null,
           null
         ]
       }
     },
-    "timestamp": 1657302752
+    "timestamp": 1657302990
   }
 }
